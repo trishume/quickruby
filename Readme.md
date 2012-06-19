@@ -1,4 +1,7 @@
 # QuickRuby
+### By Tristan Hume
+
+#### Note: I haven't actually wrote it yet. I'm just practicing readme driven development.
 
 QuickRuby is a ruby DSL designed for programming contests such as the Google Code Jam, CCC and ECOO.
 
